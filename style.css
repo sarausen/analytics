@@ -91,8 +91,8 @@ body {
     border-radius: 50%;
 }
 .chart-legend-item-box:hover, .chart-legend-item-rhombus:hover {
-    background-color: var(--hoverColor, red) !important;
-    border-color: var(--hoverColor, green) !important;
+    background-color: var(--hoverColor, rgb(115, 21, 21)) !important;
+    border-color: var(--hoverColor, rgb(41, 127, 41)) !important;
 }
 .chart-legend-item-box:hover + .chart-legend-item-label {
   color: black;
